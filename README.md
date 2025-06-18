@@ -1,0 +1,2 @@
+# timecard-manual
+タイムカードマニュアルだよ
